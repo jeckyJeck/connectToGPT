@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806681425222",
+    "project_id": "connect-to-gpt",
+    "storage_bucket": "connect-to-gpt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806681425222:android:54d645d548e6123a762147",
+        "android_client_info": {
+          "package_name": "com.yakov.connecttogpt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806681425222-9qobrfhc2fr50e2bf4glmd4hcr8i53n2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8WUoWMR_GlS3qPd_TuQ0_FqoOyem1XM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806681425222-9qobrfhc2fr50e2bf4glmd4hcr8i53n2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

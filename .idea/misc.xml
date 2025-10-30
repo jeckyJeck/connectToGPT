@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/drawable/circle_background.xml" value="0.1" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/activity_wlnew_list.xml" value="0.22" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/custom_tab.xml" value="0.1" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/fragment_gpt4.xml" value="0.1" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/fragment_whisper.xml" value="0.1" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/fragment_word_lists.xml" value="0.15208333333333332" />
+        <entry key="..\:/Users/test/ConnectToGpt/app/src/main/res/layout/item_wordslists.xml" value="0.3795180722891566" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
